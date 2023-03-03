@@ -1,5 +1,5 @@
 # Sistem Informasi Rumah Sakit
 
 Halaman Dashboard
-![src/icon/Hospital.png]( {https://imgur.com/a/gDSz8RS} )
+![Hospital.png]( {https://github.com/diggynusantara/sistem-informasi-rumah-sakit/blob/main/src/icon/Hospital.png} )
 Sistem informasi rumah sakit dengan menggunakan bahasa pemrograman java
